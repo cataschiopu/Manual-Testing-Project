@@ -5,7 +5,7 @@ It contains a selection of test plan-based test cases which cover multiple scena
 
 I have used different testing tehniques and tools:
 
-  Testing Tehniques: BVA, ECP, Decizion Table, Error Guessing, a.o
+  Testing Tehniques: BVA, ECP, Decision Table, Error Guessing, a.o
   
   Testing Tools: Testlink, Mantis, Bugzilla, Malinator, Xmind, JMeter, GTMetrix, a.o
   
